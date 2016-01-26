@@ -31,7 +31,7 @@ usage: %prog list,of,species,to,keep seq_db_file indexed_maf_files ...
 
 import psyco_full
 
-from cookbook import doc_optparse
+from bx.cookbook import doc_optparse
 
 import operator
 
